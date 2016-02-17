@@ -1,3 +1,3 @@
 # hello-world
 
-Hello, Iam Roger.
+Hello, I am Roger.
